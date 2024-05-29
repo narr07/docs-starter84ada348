@@ -1,74 +1,56 @@
 {
   "title": "My site",
   "description": "Start building modern documentation site in 4 steps - Docuo",
-  "favicon": "image/favicon.png",
+  "favicon": "https://media-resource.spreading.io/docuo/workspace655/bb65c9a486c2cff994f531f370be55a6/favicon.png?ts=1717023256926",
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false
     },
     "navbar": {
-      "title": "My project",
+      "title": "Dinar Permadi",
       "logo": {
-        "light": "image/logo_light.png",
-        "dark": "image/logo_dark.png"
+        "dark": "https://media-resource.spreading.io/docuo/workspace655/bb65c9a486c2cff994f531f370be55a6/navbar_dark_logo.png?ts=1717023366902",
+        "light": "image/logo_light.png"
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "mySidebar",
-          "label": "Documentation"
-        },
-        {
-          "type": "default",
-          "label": "Homepage",
-          "href": "https://www.spreading.ai"
+          "id": "eb9e6eba",
+          "label": "Home",
+          "href": "https://permadi.dev/",
+          "to": ""
         }
       ]
     },
     "footer": {
       "logo": {
-        "light": "image/logo_light.png",
-        "dark": "image/logo_dark.png"
+        "dark": "https://media-resource.spreading.io/docuo/workspace655/bb65c9a486c2cff994f531f370be55a6/footer_dark_logo.png?ts=1717023468465",
+        "light": "image/logo_light.png"
       },
-      "caption": "My project",
-      "links": [
-        {
-          "title": "Product",
-          "items": [
-            {
-              "label": "Blog",
-              "href": "https://www.spreading.ai/blog"
-            },
-            {
-              "label": "Sign up",
-              "href": "https://app.spreading.ai/signup"
-            },
-            {
-              "label": "Log in",
-              "href": "https://app.spreading.ai/login"
-            }
-          ]
-        }
-      ],
+      "caption": "Dinar Permadi",
+      "links": [],
       "socials": [
         {
           "logo": "Twitter",
-          "href": "https://twitter.com/docuo_team"
+          "href": "https://x.com/dinarpermadi07",
+          "id": "125606ce"
         },
         {
           "logo": "LinkedIn",
-          "href": "https://www.linkedin.com/company/spreadingai"
-        },
-        {
-          "logo": "Discord",
-          "href": "https://discord.gg/pgJFhUwzAU"
+          "href": "https://www.linkedin.com/in/narr07/",
+          "id": "362e6555"
         },
         {
           "logo": "GitHub",
-          "href": "https://github.com/spreadingai"
+          "href": "https://github.com/narr07",
+          "id": "3a287112"
         }
-      ]
+      ],
+      "copyright": "© 2024 - Dinar Permadi Yusup"
+    },
+    "colors": {
+      "primaryLight": "#004643",
+      "primaryDark": "#abd1c6"
     }
   },
   "search": {
