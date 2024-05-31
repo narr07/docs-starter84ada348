@@ -55,9 +55,9 @@
   },
   "search": {
     "algolia": {
-      "appId": "YOUR_APP_ID",
-      "apiKey": "YOUR_API_KEY",
-      "indexName": "YOUR_INDEX_NAME"
+      "appId": "DXG7XCR83B",
+      "apiKey": "4d03611e5815777f2847eea03d1371d9",
+      "indexName": "permadi-spreading"
     }
   }
 }
